@@ -1,6 +1,5 @@
-# **<p align="center"> Documentación TP Final </p>**
+# **<p align="center"> ¿A qué precio y en qué concesionaria vendo mi auto? </p>**
 
-## _<p align="center"> Introducción a la Ciencia de Datos, ECyT UNSAM </p>_
 
 **Autores:** Marcos Achaval, Federico Menicillo, Lucas Golchtein.
 
